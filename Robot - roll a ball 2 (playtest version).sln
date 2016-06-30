@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Robot - roll a ball 2 (playtest version).CSharp.Plugins", "Robot - roll a ball 2 (playtest version).CSharp.Plugins.csproj", "{B1EA6CDA-0DC6-CA29-095B-15F5DF60F0F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Robot - roll a ball 2 (playtest version).CSharp", "Robot - roll a ball 2 (playtest version).CSharp.csproj", "{E094FCA1-6502-2683-98E9-BC57ABFC0480}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1EA6CDA-0DC6-CA29-095B-15F5DF60F0F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1EA6CDA-0DC6-CA29-095B-15F5DF60F0F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1EA6CDA-0DC6-CA29-095B-15F5DF60F0F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1EA6CDA-0DC6-CA29-095B-15F5DF60F0F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E094FCA1-6502-2683-98E9-BC57ABFC0480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E094FCA1-6502-2683-98E9-BC57ABFC0480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E094FCA1-6502-2683-98E9-BC57ABFC0480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E094FCA1-6502-2683-98E9-BC57ABFC0480}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="Robot - roll a ball 2.CSharp.Plugins.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\CamvsWall.cs">
+    <Files>
+      <File FileName="Assets\CamvsWall.cs" Line="16" Column="31" />
+      <File FileName="Assets\Standard Assets\Cameras\Scripts\ProtectCameraFromWallClip.cs" Line="1" Column="1" />
+      <File FileName="Assets\Camera_Triggers.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\functionScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player\teste.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Camera\CameraFollower.cs" Line="1" Column="1" />
+      <File FileName="Assets\Songs\SFX\SFX.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Chegada\colisionScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Button\startScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Instruction\Animation_Script.cs" Line="1" Column="1" />
+      <File FileName="Assets\Camera_Controller.cs" Line="1" Column="1" />
+      <File FileName="Assets\MoveScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\TEST\Move_Test.cs" Line="1" Column="1" />
+      <File FileName="Assets\TEST\Camera_test.cs" Line="6" Column="35" />
+      <File FileName="Assets\TEST\Move_Test_fixedOnPlayer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

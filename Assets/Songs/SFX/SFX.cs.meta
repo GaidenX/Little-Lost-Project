@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9bc96bb5c982d74429fc83eb915c5c03
+timeCreated: 1448825800
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Sons: {instanceID: 0}
+  - onButton: {instanceID: 0}
+  - Death_Song: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

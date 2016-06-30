@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Robot - roll a ball 2.CSharp.Plugins", "Robot - roll a ball 2.CSharp.Plugins.csproj", "{929B014B-5696-5DDA-F2CB-EEB6304C7711}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Robot - roll a ball 2.CSharp", "Robot - roll a ball 2.CSharp.csproj", "{3530DD3A-0518-7CBA-665C-ED8AD3051730}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{929B014B-5696-5DDA-F2CB-EEB6304C7711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{929B014B-5696-5DDA-F2CB-EEB6304C7711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{929B014B-5696-5DDA-F2CB-EEB6304C7711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{929B014B-5696-5DDA-F2CB-EEB6304C7711}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3530DD3A-0518-7CBA-665C-ED8AD3051730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3530DD3A-0518-7CBA-665C-ED8AD3051730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3530DD3A-0518-7CBA-665C-ED8AD3051730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3530DD3A-0518-7CBA-665C-ED8AD3051730}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
